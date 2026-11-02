@@ -1,0 +1,59 @@
+name: Atualizar perfil (cobrinha e cartoes)
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # roda sozinho a cada 12 horas
+  workflow_dispatch:         # botao "Run workflow" na aba Actions
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Criar pasta profile
+        run: mkdir -p profile
+
+      - name: Gerar a cobrinha
+        continue-on-error: true
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-snake.svg
+            profile/github-snake-dark.svg?palette=github-dark
+
+      - name: Gerar cartao de estatisticas
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=14122e&title_color=ffd23f&text_color=e8e4ff&icon_color=5de0ff
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar cartao de linguagens
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=14122e&title_color=ffd23f&text_color=e8e4ff
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar no repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualizar cobrinha e cartoes" || exit 0
+          git pull --rebase
+          git push
