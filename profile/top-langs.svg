@@ -1,19 +1,196 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 165" width="300" height="165" shape-rendering="crispEdges" role="img" aria-label="Aguardando a Action gerar: LINGUAGENS">
-<title>Aguardando a Action gerar: LINGUAGENS</title>
-<style>
-@keyframes blink{0%{opacity:1}50%{opacity:0}100%{opacity:0}}
-.bl{animation:blink 1.2s steps(1,end) infinite}
-@keyframes spin{0%{transform:scaleX(1)}25%{transform:scaleX(.55)}50%{transform:scaleX(.15)}75%{transform:scaleX(.55)}100%{transform:scaleX(1)}}
-.spin{transform-box:fill-box;transform-origin:center;animation:spin 1.2s steps(1,end) infinite}
-@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
-.bob{animation:bob 1.6s steps(4,end) infinite}
-@keyframes beat{0%{transform:scale(1)}50%{transform:scale(1.18)}100%{transform:scale(1)}}
-.ht{transform-box:fill-box;transform-origin:center;animation:beat 1s steps(1,end) infinite}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 
-<path fill="#8b5cf6" d="M6 0h288v165h-288zM0 6h300v153h-300z"/><path fill="#14122e" d="M12 6h276v153h-276zM6 12h288v141h-288z"/>
-<path fill="#7a3b00" d="M64 31h3v3h-3zM85 31h9v3h-9zM100 31h3v3h-3zM112 31h3v3h-3zM121 31h9v3h-9zM136 31h3v3h-3zM148 31h3v3h-3zM157 31h9v3h-9zM175 31h9v3h-9zM190 31h15v3h-15zM208 31h3v3h-3zM220 31h3v3h-3zM229 31h12v3h-12zM64 34h3v3h-3zM88 34h3v3h-3zM100 34h6v3h-6zM112 34h3v3h-3zM118 34h3v3h-3zM130 34h3v3h-3zM136 34h3v3h-3zM148 34h3v3h-3zM154 34h3v3h-3zM166 34h3v3h-3zM172 34h3v3h-3zM184 34h3v3h-3zM190 34h3v3h-3zM208 34h6v3h-6zM220 34h3v3h-3zM226 34h3v3h-3zM64 37h3v3h-3zM88 37h3v3h-3zM100 37h3v3h-3zM106 37h3v3h-3zM112 37h3v3h-3zM118 37h3v3h-3zM136 37h3v3h-3zM148 37h3v3h-3zM154 37h3v3h-3zM166 37h3v3h-3zM172 37h3v3h-3zM190 37h3v3h-3zM208 37h3v3h-3zM214 37h3v3h-3zM220 37h3v3h-3zM226 37h3v3h-3zM64 40h3v3h-3zM88 40h3v3h-3zM100 40h3v3h-3zM109 40h6v3h-6zM118 40h3v3h-3zM124 40h9v3h-9zM136 40h3v3h-3zM148 40h3v3h-3zM154 40h15v3h-15zM172 40h3v3h-3zM178 40h9v3h-9zM190 40h12v3h-12zM208 40h3v3h-3zM217 40h6v3h-6zM229 40h9v3h-9zM64 43h3v3h-3zM88 43h3v3h-3zM100 43h3v3h-3zM112 43h3v3h-3zM118 43h3v3h-3zM130 43h3v3h-3zM136 43h3v3h-3zM148 43h3v3h-3zM154 43h3v3h-3zM166 43h3v3h-3zM172 43h3v3h-3zM184 43h3v3h-3zM190 43h3v3h-3zM208 43h3v3h-3zM220 43h3v3h-3zM238 43h3v3h-3zM64 46h3v3h-3zM88 46h3v3h-3zM100 46h3v3h-3zM112 46h3v3h-3zM118 46h3v3h-3zM130 46h3v3h-3zM136 46h3v3h-3zM148 46h3v3h-3zM154 46h3v3h-3zM166 46h3v3h-3zM172 46h3v3h-3zM184 46h3v3h-3zM190 46h3v3h-3zM208 46h3v3h-3zM220 46h3v3h-3zM238 46h3v3h-3zM64 49h15v3h-15zM85 49h9v3h-9zM100 49h3v3h-3zM112 49h3v3h-3zM121 49h12v3h-12zM139 49h9v3h-9zM154 49h3v3h-3zM166 49h3v3h-3zM175 49h12v3h-12zM190 49h15v3h-15zM208 49h3v3h-3zM220 49h3v3h-3zM226 49h12v3h-12z"/><path fill="#ffd23f" d="M61 28h3v3h-3zM82 28h9v3h-9zM97 28h3v3h-3zM109 28h3v3h-3zM118 28h9v3h-9zM133 28h3v3h-3zM145 28h3v3h-3zM154 28h9v3h-9zM172 28h9v3h-9zM187 28h15v3h-15zM205 28h3v3h-3zM217 28h3v3h-3zM226 28h12v3h-12zM61 31h3v3h-3zM85 31h3v3h-3zM97 31h6v3h-6zM109 31h3v3h-3zM115 31h3v3h-3zM127 31h3v3h-3zM133 31h3v3h-3zM145 31h3v3h-3zM151 31h3v3h-3zM163 31h3v3h-3zM169 31h3v3h-3zM181 31h3v3h-3zM187 31h3v3h-3zM205 31h6v3h-6zM217 31h3v3h-3zM223 31h3v3h-3zM61 34h3v3h-3zM85 34h3v3h-3zM97 34h3v3h-3zM103 34h3v3h-3zM109 34h3v3h-3zM115 34h3v3h-3zM133 34h3v3h-3zM145 34h3v3h-3zM151 34h3v3h-3zM163 34h3v3h-3zM169 34h3v3h-3zM187 34h3v3h-3zM205 34h3v3h-3zM211 34h3v3h-3zM217 34h3v3h-3zM223 34h3v3h-3zM61 37h3v3h-3zM85 37h3v3h-3zM97 37h3v3h-3zM106 37h6v3h-6zM115 37h3v3h-3zM121 37h9v3h-9zM133 37h3v3h-3zM145 37h3v3h-3zM151 37h15v3h-15zM169 37h3v3h-3zM175 37h9v3h-9zM187 37h12v3h-12zM205 37h3v3h-3zM214 37h6v3h-6zM226 37h9v3h-9zM61 40h3v3h-3zM85 40h3v3h-3zM97 40h3v3h-3zM109 40h3v3h-3zM115 40h3v3h-3zM127 40h3v3h-3zM133 40h3v3h-3zM145 40h3v3h-3zM151 40h3v3h-3zM163 40h3v3h-3zM169 40h3v3h-3zM181 40h3v3h-3zM187 40h3v3h-3zM205 40h3v3h-3zM217 40h3v3h-3zM235 40h3v3h-3zM61 43h3v3h-3zM85 43h3v3h-3zM97 43h3v3h-3zM109 43h3v3h-3zM115 43h3v3h-3zM127 43h3v3h-3zM133 43h3v3h-3zM145 43h3v3h-3zM151 43h3v3h-3zM163 43h3v3h-3zM169 43h3v3h-3zM181 43h3v3h-3zM187 43h3v3h-3zM205 43h3v3h-3zM217 43h3v3h-3zM235 43h3v3h-3zM61 46h15v3h-15zM82 46h9v3h-9zM97 46h3v3h-3zM109 46h3v3h-3zM118 46h12v3h-12zM136 46h9v3h-9zM151 46h3v3h-3zM163 46h3v3h-3zM172 46h12v3h-12zM187 46h15v3h-15zM205 46h3v3h-3zM217 46h3v3h-3zM223 46h12v3h-12z"/>
-<path fill="#c7b8ff" d="M243 68h4v2h-4zM249 68h2v2h-2zM241 70h2v2h-2zM247 70h2v2h-2zM39 72h6v2h-6zM51 72h6v2h-6zM61 72h2v2h-2zM69 72h2v2h-2zM75 72h6v2h-6zM85 72h8v2h-8zM97 72h8v2h-8zM111 72h6v2h-6zM121 72h2v2h-2zM129 72h2v2h-2zM133 72h8v2h-8zM147 72h6v2h-6zM169 72h10v2h-10zM181 72h2v2h-2zM189 72h2v2h-2zM193 72h10v2h-10zM207 72h6v2h-6zM217 72h2v2h-2zM225 72h2v2h-2zM231 72h6v2h-6zM243 72h6v2h-6zM255 72h6v2h-6zM37 74h2v2h-2zM45 74h2v2h-2zM49 74h2v2h-2zM57 74h2v2h-2zM61 74h2v2h-2zM69 74h2v2h-2zM73 74h2v2h-2zM81 74h2v2h-2zM85 74h2v2h-2zM93 74h2v2h-2zM97 74h2v2h-2zM105 74h2v2h-2zM109 74h2v2h-2zM117 74h2v2h-2zM121 74h4v2h-4zM129 74h2v2h-2zM133 74h2v2h-2zM141 74h2v2h-2zM145 74h2v2h-2zM153 74h2v2h-2zM169 74h2v2h-2zM181 74h2v2h-2zM189 74h2v2h-2zM193 74h2v2h-2zM205 74h2v2h-2zM213 74h2v2h-2zM217 74h2v2h-2zM225 74h2v2h-2zM229 74h2v2h-2zM237 74h2v2h-2zM241 74h2v2h-2zM249 74h2v2h-2zM253 74h2v2h-2zM261 74h2v2h-2zM37 76h2v2h-2zM45 76h2v2h-2zM49 76h2v2h-2zM61 76h2v2h-2zM69 76h2v2h-2zM73 76h2v2h-2zM81 76h2v2h-2zM85 76h2v2h-2zM93 76h2v2h-2zM97 76h2v2h-2zM105 76h2v2h-2zM109 76h2v2h-2zM117 76h2v2h-2zM121 76h2v2h-2zM125 76h2v2h-2zM129 76h2v2h-2zM133 76h2v2h-2zM141 76h2v2h-2zM145 76h2v2h-2zM153 76h2v2h-2zM169 76h2v2h-2zM183 76h2v2h-2zM187 76h2v2h-2zM193 76h2v2h-2zM205 76h2v2h-2zM217 76h2v2h-2zM225 76h2v2h-2zM229 76h2v2h-2zM241 76h2v2h-2zM249 76h2v2h-2zM253 76h2v2h-2zM261 76h2v2h-2zM37 78h10v2h-10zM49 78h2v2h-2zM53 78h6v2h-6zM61 78h2v2h-2zM69 78h2v2h-2zM73 78h10v2h-10zM85 78h8v2h-8zM97 78h2v2h-2zM105 78h2v2h-2zM109 78h10v2h-10zM121 78h2v2h-2zM127 78h4v2h-4zM133 78h2v2h-2zM141 78h2v2h-2zM145 78h2v2h-2zM153 78h2v2h-2zM169 78h8v2h-8zM185 78h2v2h-2zM193 78h8v2h-8zM205 78h2v2h-2zM217 78h2v2h-2zM225 78h2v2h-2zM229 78h2v2h-2zM241 78h10v2h-10zM253 78h2v2h-2zM261 78h2v2h-2zM37 80h2v2h-2zM45 80h2v2h-2zM49 80h2v2h-2zM57 80h2v2h-2zM61 80h2v2h-2zM69 80h2v2h-2zM73 80h2v2h-2zM81 80h2v2h-2zM85 80h2v2h-2zM89 80h2v2h-2zM97 80h2v2h-2zM105 80h2v2h-2zM109 80h2v2h-2zM117 80h2v2h-2zM121 80h2v2h-2zM129 80h2v2h-2zM133 80h2v2h-2zM141 80h2v2h-2zM145 80h2v2h-2zM153 80h2v2h-2zM169 80h2v2h-2zM183 80h2v2h-2zM187 80h2v2h-2zM193 80h2v2h-2zM205 80h2v2h-2zM217 80h2v2h-2zM225 80h2v2h-2zM229 80h2v2h-2zM241 80h2v2h-2zM249 80h2v2h-2zM253 80h2v2h-2zM261 80h2v2h-2zM37 82h2v2h-2zM45 82h2v2h-2zM49 82h2v2h-2zM57 82h2v2h-2zM61 82h2v2h-2zM69 82h2v2h-2zM73 82h2v2h-2zM81 82h2v2h-2zM85 82h2v2h-2zM91 82h2v2h-2zM97 82h2v2h-2zM105 82h2v2h-2zM109 82h2v2h-2zM117 82h2v2h-2zM121 82h2v2h-2zM129 82h2v2h-2zM133 82h2v2h-2zM141 82h2v2h-2zM145 82h2v2h-2zM153 82h2v2h-2zM169 82h2v2h-2zM181 82h2v2h-2zM189 82h2v2h-2zM193 82h2v2h-2zM205 82h2v2h-2zM213 82h2v2h-2zM217 82h2v2h-2zM225 82h2v2h-2zM229 82h2v2h-2zM237 82h2v2h-2zM241 82h2v2h-2zM249 82h2v2h-2zM253 82h2v2h-2zM261 82h2v2h-2zM37 84h2v2h-2zM45 84h2v2h-2zM51 84h8v2h-8zM63 84h6v2h-6zM73 84h2v2h-2zM81 84h2v2h-2zM85 84h2v2h-2zM93 84h2v2h-2zM97 84h8v2h-8zM109 84h2v2h-2zM117 84h2v2h-2zM121 84h2v2h-2zM129 84h2v2h-2zM133 84h8v2h-8zM147 84h6v2h-6zM169 84h10v2h-10zM181 84h2v2h-2zM189 84h2v2h-2zM193 84h10v2h-10zM207 84h6v2h-6zM219 84h6v2h-6zM231 84h6v2h-6zM241 84h2v2h-2zM249 84h2v2h-2zM255 84h6v2h-6zM233 86h2v2h-2zM233 88h4v2h-4z"/>
-<path fill="#c7b8ff" d="M51 98h6v2h-6zM61 98h8v2h-8zM75 98h6v2h-6zM99 98h6v2h-6zM111 98h6v2h-6zM121 98h10v2h-10zM135 98h6v2h-6zM147 98h6v2h-6zM157 98h2v2h-2zM165 98h2v2h-2zM171 98h8v2h-8zM193 98h2v2h-2zM217 98h8v2h-8zM229 98h2v2h-2zM237 98h2v2h-2zM241 98h2v2h-2zM249 98h2v2h-2zM49 100h2v2h-2zM57 100h2v2h-2zM61 100h2v2h-2zM69 100h2v2h-2zM73 100h2v2h-2zM81 100h2v2h-2zM97 100h2v2h-2zM105 100h2v2h-2zM109 100h2v2h-2zM117 100h2v2h-2zM125 100h2v2h-2zM137 100h2v2h-2zM145 100h2v2h-2zM153 100h2v2h-2zM157 100h4v2h-4zM165 100h2v2h-2zM169 100h2v2h-2zM195 100h2v2h-2zM217 100h2v2h-2zM225 100h2v2h-2zM229 100h2v2h-2zM237 100h2v2h-2zM241 100h4v2h-4zM249 100h2v2h-2zM49 102h2v2h-2zM57 102h2v2h-2zM61 102h2v2h-2zM69 102h2v2h-2zM73 102h2v2h-2zM81 102h2v2h-2zM97 102h2v2h-2zM105 102h2v2h-2zM109 102h2v2h-2zM125 102h2v2h-2zM137 102h2v2h-2zM145 102h2v2h-2zM153 102h2v2h-2zM157 102h2v2h-2zM161 102h2v2h-2zM165 102h2v2h-2zM169 102h2v2h-2zM197 102h2v2h-2zM217 102h2v2h-2zM225 102h2v2h-2zM229 102h2v2h-2zM237 102h2v2h-2zM241 102h2v2h-2zM245 102h2v2h-2zM249 102h2v2h-2zM49 104h10v2h-10zM61 104h8v2h-8zM73 104h10v2h-10zM97 104h10v2h-10zM109 104h2v2h-2zM125 104h2v2h-2zM137 104h2v2h-2zM145 104h2v2h-2zM153 104h2v2h-2zM157 104h2v2h-2zM163 104h4v2h-4zM171 104h6v2h-6zM199 104h2v2h-2zM217 104h8v2h-8zM229 104h2v2h-2zM237 104h2v2h-2zM241 104h2v2h-2zM247 104h4v2h-4zM49 106h2v2h-2zM57 106h2v2h-2zM61 106h2v2h-2zM69 106h2v2h-2zM73 106h2v2h-2zM81 106h2v2h-2zM97 106h2v2h-2zM105 106h2v2h-2zM109 106h2v2h-2zM125 106h2v2h-2zM137 106h2v2h-2zM145 106h2v2h-2zM153 106h2v2h-2zM157 106h2v2h-2zM165 106h2v2h-2zM177 106h2v2h-2zM197 106h2v2h-2zM217 106h2v2h-2zM221 106h2v2h-2zM229 106h2v2h-2zM237 106h2v2h-2zM241 106h2v2h-2zM249 106h2v2h-2zM49 108h2v2h-2zM57 108h2v2h-2zM61 108h2v2h-2zM69 108h2v2h-2zM73 108h2v2h-2zM81 108h2v2h-2zM97 108h2v2h-2zM105 108h2v2h-2zM109 108h2v2h-2zM117 108h2v2h-2zM125 108h2v2h-2zM137 108h2v2h-2zM145 108h2v2h-2zM153 108h2v2h-2zM157 108h2v2h-2zM165 108h2v2h-2zM177 108h2v2h-2zM195 108h2v2h-2zM217 108h2v2h-2zM223 108h2v2h-2zM229 108h2v2h-2zM237 108h2v2h-2zM241 108h2v2h-2zM249 108h2v2h-2zM49 110h2v2h-2zM57 110h2v2h-2zM61 110h8v2h-8zM73 110h2v2h-2zM81 110h2v2h-2zM97 110h2v2h-2zM105 110h2v2h-2zM111 110h6v2h-6zM125 110h2v2h-2zM135 110h6v2h-6zM147 110h6v2h-6zM157 110h2v2h-2zM165 110h2v2h-2zM169 110h8v2h-8zM193 110h2v2h-2zM217 110h2v2h-2zM225 110h2v2h-2zM231 110h6v2h-6zM241 110h2v2h-2zM249 110h2v2h-2z"/>
-<g class="bl"><rect x="142" y="127" width="16" height="16" fill="#7dffb2"/></g>
-</svg>
+      <svg
+        width="300"
+        height="140"
+        viewBox="0 0 300 140"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId"></title>
+        <desc id="descId"></desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #ffd23f;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
+    }
+    @keyframes growWidthAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e8e4ff;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .bold { font-weight: 700 }
+    .lang-name {
+      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      fill: #e8e4ff;
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    #rect-mask rect{
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    .lang-progress{
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
+    .progress-background { fill: #ddd; }
+    
+          
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+        <defs>
+          
+          
+        </defs>
+        
+
+        <rect
+          data-testid="card-bg"
+          class="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="299"
+          fill="#14122e"
+          stroke-opacity="0"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Most Used Languages</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <svg data-testid="lang-items" x="25">
+      
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+        </mask>
+        
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="158.58"
+          height="8"
+          fill="#7355dd"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="158.58"
+          y="0"
+          width="75.79"
+          height="8"
+          fill="#222c37"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="234.37"
+          y="0"
+          width="15.63"
+          height="8"
+          fill="#aace60"
+        />
+      
+      
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#7355dd" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C# 63.43%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#222c37" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        ShaderLab 30.32%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#aace60" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HLSL 6.25%
+      </text>
+    </g>
+  </g></g>
+    </g>
+  
+    </svg>
+  
+        </g>
+      </svg>
+    
