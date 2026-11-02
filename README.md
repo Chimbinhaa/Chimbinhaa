@@ -51,10 +51,10 @@ Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chimbinhaa&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimbinhaa&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas"/>
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical&hide_border=true" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com/?user=Chimbinhaa&theme=radical&hide_border=true" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -74,7 +74,7 @@ Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e 
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Chimbinhaa"><img src="https://img.shields.io/badge/GitHub-Chimbinhaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <!-- Quando quiser, adicione outros contatos aqui (use só os que você se sente seguro em divulgar):
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
