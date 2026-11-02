@@ -37,9 +37,9 @@ Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e 
 - [x] 🟢 Criar meu perfil no GitHub
 - [ ] 🔵 **Quest principal:** terminar o ensino médio
 - [ ] 🔵 Construir meu primeiro site com HTML + CSS
-- [ ] 🔵 Dominar os fundamentos de C# (variáveis, condições, laços e orientação a objetos)
-- [ ] 🟣 Aprender Git e GitHub direito (commits, branches e pull requests)
-- [ ] 🟣 Criar meu primeiro joguinho
+- [ ] 🔵 Dominar os fundamentos mais aprofudandos de C# (orientação a objetos, grandes jogos na prática e etc)
+- [ ] 🟣 Aprender outras linguagens
+- [ ] 🟣 Aprender mais sobre front-end e back-end
 
 <div align="center">
 <img src="./assets/terminal.svg" alt="Terminal pixel art com a ficha do player sendo digitada" width="100%"/>
@@ -58,7 +58,6 @@ Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e 
 
 </div>
 
-> 💡 Esses cartões só vão ficar bonitos conforme você criar repositórios e fizer commits. No começo eles aparecem quase vazios, é normal!
 
 ## 🐍 SNAKE: COMENDO MEUS COMMITS
 
