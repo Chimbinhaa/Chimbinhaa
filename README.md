@@ -14,7 +14,7 @@
 
 Fala, player! 👾 Eu sou o **Ian Rodrigues Lima**, tenho **16 anos** e estou cursando o **ensino médio**. Minha maior paixão é **programação e tecnologia em geral**. Para mim, aprender a programar é como jogar um RPG: cada projeto é uma *quest*, cada bug é um *chefe* e cada linha de código que funciona vale um pouco de XP. ⚔️
 
-Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e dou os primeiros passos na lógica de programação com **C#**. Meu objetivo é continuar subindo de nível, criar projetos cada vez maiores e, quem sabe, desenvolver meus próprios jogos. 🕹️
+Hoje estou na fase de **construir a base e me aprofundar**: estou começando a montar páginas com **HTML e CSS** e me aprofundando mais na prática com **C#**. Meu objetivo é continuar subindo de nível, criar projetos cada vez maiores e, quem sabe, desenvolver meus próprios jogos. 🕹️
 
 <div align="center">
 <img src="./assets/player-card.svg" alt="Ficha do player: Ian Rodrigues Lima, Dev Aprendiz, nível 16" width="640"/>
@@ -37,7 +37,7 @@ Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e 
 - [x] 🟢 Criar meu perfil no GitHub
 - [ ] 🔵 Quest principal: terminar o ensino médio
 - [ ] 🔵 Construir meu primeiro site com HTML + CSS
-- [ ] 🔵 Dominar os fundamentos mais aprofundados de C# (orientação a objetos, grandes jogos na prática e etc)
+- [ ] 🔵 Dominar os fundamentos mais aprofundados de C# (orientação a objetos, grandes e médios jogos na prática e entre outros)
 - [ ] 🟣 Aprender outras linguagens
 - [ ] 🟣 Aprender mais sobre front-end e back-end
 
