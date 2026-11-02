@@ -58,7 +58,7 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 
 </div>
 
-## 🐍 SNAKE: COMENDO MEUS COMMITS
+## 🐍 COBRINHA: COMENDO MEUS COMMITS
 
 <div align="center">
 <picture>
@@ -68,7 +68,7 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 </picture>
 </div>
 
-## 📡 CONTATO
+## 📡 CONTATOS
 
 <div align="center">
 
