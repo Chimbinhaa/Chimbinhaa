@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PLAYERS+ONLINE&color=ff4f81&style=for-the-badge" alt="Contador de visitas"/>
+<img src="https://komarev.com/ghpvc/?username=Chimbinhaa&label=PLAYERS+ONLINE&color=ff4f81&style=for-the-badge" alt="Contador de visitas"/>
 
 </div>
 
@@ -35,9 +35,9 @@ Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e 
 ## 🗺️ QUESTS
 
 - [x] 🟢 Criar meu perfil no GitHub
-- [ ] 🔵 **Quest principal:** terminar o ensino médio
+- [ ] 🔵 Quest principal: terminar o ensino médio
 - [ ] 🔵 Construir meu primeiro site com HTML + CSS
-- [ ] 🔵 Dominar os fundamentos mais aprofudandos de C# (orientação a objetos, grandes jogos na prática e etc)
+- [ ] 🔵 Dominar os fundamentos mais aprofundados de C# (orientação a objetos, grandes jogos na prática e etc)
 - [ ] 🟣 Aprender outras linguagens
 - [ ] 🟣 Aprender mais sobre front-end e back-end
 
@@ -51,21 +51,20 @@ Hoje estou na fase de **construir a base**: monto páginas com **HTML e CSS** e 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chimbinhaa&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimbinhaa&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas"/>
+<img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
+<img height="165" src="./profile/top-langs.svg" alt="Linguagens mais usadas"/>
 
 <img src="https://streak-stats.demolab.com/?user=Chimbinhaa&theme=radical&hide_border=true" alt="Sequência de contribuições"/>
 
 </div>
 
-
 ## 🐍 SNAKE: COMENDO MEUS COMMITS
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-  <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img alt="Cobrinha comendo meu gráfico de contribuições" src="./profile/github-snake.svg" width="100%" />
 </picture>
 </div>
 
