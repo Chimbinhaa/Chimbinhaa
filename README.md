@@ -72,6 +72,8 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/Chimbinhaa"><img src="https://img.shields.io/badge/GitHub-Chimbinhaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/>
 <a href="https://www.instagram.com/ianrgs_/"><img src="https://img.shields.io/badge/Instagram-ianrgs__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><br/>
 <a href="mailto:ianrlima08@gmail.com"><img src="https://img.shields.io/badge/Gmail-ianrlima08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -80,7 +82,7 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 -->
 
-<br/><br/>
+<br/>
 
 <img src="./assets/divider.svg" alt="" width="100%"/>
 
