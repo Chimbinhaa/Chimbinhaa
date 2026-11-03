@@ -72,8 +72,8 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 
 <div align="center">
 
-<a href="https://github.com/Chimbinhaa"><img src="https://img.shields.io/badge/GitHub-Chimbinhaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/ianrgs_/"><img src="https://img.shields.io/badge/Instagram-ianrgs__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/Chimbinhaa"><img src="https://img.shields.io/badge/GitHub-Chimbinhaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/>
+<a href="https://www.instagram.com/ianrgs_/"><img src="https://img.shields.io/badge/Instagram-ianrgs__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><br/>
 <a href="mailto:ianrlima08@gmail.com"><img src="https://img.shields.io/badge/Gmail-ianrlima08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <!-- Quando quiser, adicione outros contatos aqui (use só os que você se sente seguro em divulgar):
