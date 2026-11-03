@@ -26,18 +26,18 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 
 **Equipado agora:**
 
-<img src="https://skillicons.dev/icons?i=html,css,cs,git,github,vscode,visualstudio&perline=7" alt="HTML, CSS, C#, Git, GitHub, VS Code e Visual Studio"/>
+<img src="https://skillicons.dev/icons?i=html,css,cs,unity,git,github,vscode,visualstudio&perline=8" alt="HTML, CSS, C#, Unity, Git, GitHub, VS Code e Visual Studio"/>
 
 **🔒 Próximas fases a desbloquear:**
 
-<img src="https://skillicons.dev/icons?i=js,unity&perline=7" alt="JavaScript e Unity"/>
+<img src="https://skillicons.dev/icons?i=js,ts,figma&perline=7" alt="JavaScript, TypeScript e Figma"/>
 
 ## 🗺️ QUESTS
 
 - [x] 🟢 Criar meu perfil no GitHub
 - [ ] 🔵 Quest principal: terminar o ensino médio
 - [ ] 🔵 Construir meu primeiro site com HTML + CSS
-- [ ] 🔵 Dominar os fundamentos mais aprofundados de C# (orientação a objetos, grandes e médios jogos na prática e entre outros)
+- [ ] 🔵 Dominar os fundamentos mais aprofundados de C# (orientação a objetos, grandes jogos na prática e etc)
 - [ ] 🟣 Aprender outras linguagens
 - [ ] 🟣 Aprender mais sobre front-end e back-end
 
@@ -58,7 +58,7 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 
 </div>
 
-## 🐍 COBRINHA: COMENDO MEUS COMMITS
+## 🐍 SNAKE: COMENDO MEUS COMMITS
 
 <div align="center">
 <picture>
@@ -68,7 +68,7 @@ Hoje estou na fase de **construir a base e me aprofundar**: estou começando a m
 </picture>
 </div>
 
-## 📡 CONTATOS
+## 📡 CONTATO
 
 <div align="center">
 
